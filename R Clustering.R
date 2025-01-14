@@ -1,4 +1,6 @@
-setwd("~/Daten-Orchestrierung/Auftrag Clustering")
+
+setwd("~/path/to/your/project/directory")
+
 credit_card<-read.csv("CC GENERAL.csv")
 
 dim(credit_card)
